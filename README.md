@@ -12,13 +12,13 @@ The cloud makes the decision of what to do with the data.
 Computer -> Acts like tempreture sensors(RNG), and tempreture regualtors(RNG)
 
 Loop:
+
 	Computer -> measures tempreture
 	Computer -> Sends data to AWS cloud
-
 	AWS Cloud -> Makes decision on setting tempreture high, low or no change.
 	AWS Cloud -> Responds to computer with command
-
 	Computer -> Sets a new tempreture based on command
+	
 Repeat Loop
 
 ## Python pre-requisites
