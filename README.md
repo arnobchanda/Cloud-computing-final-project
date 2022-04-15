@@ -41,3 +41,7 @@ To run client
 ```
 python3 client.py
 ```
+
+## Other Notes
+
+Needless to say the server code goes on your cloud instance and client runs on your computer(or any other preferred device) 
